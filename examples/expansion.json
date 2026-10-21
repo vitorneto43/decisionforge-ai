@@ -1,0 +1,10 @@
+{
+  "investment": 500000,
+  "monthly_revenue": 85000,
+  "monthly_cost": 69000,
+  "months": 36,
+  "revenue_uncertainty": 0.2,
+  "cost_uncertainty": 0.15,
+  "monthly_growth": 0.0,
+  "discount_rate_annual": 0.1
+}
